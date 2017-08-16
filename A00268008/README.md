@@ -17,4 +17,6 @@
 
 ## Referencias  
 
-bibliografia
+
+https://github.com/ICESI/so-commands/tree/master/centos7
+
